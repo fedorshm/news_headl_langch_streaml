@@ -5,4 +5,4 @@
 - 
 Модель для генерации заголовка на HF - Gnider/mix_6ep_15k
 
-Модель для оценки сентимента на HF - 
+Модель для оценки сентимента на HF - blanchefort/rubert-base-cased-sentiment
