@@ -6,3 +6,8 @@
 Модель для генерации заголовка на HF - [Gnider/mix_6ep_15k]([url](https://huggingface.co/Gnider/mix_6ep_15k))
 
 Модель для оценки сентимента на HF - [blanchefort/rubert-base-cased-sentiment]([url](https://huggingface.co/blanchefort/rubert-base-cased-sentiment))
+
+Для запуска сервиса:
+```
+streamlit run app.py
+```
