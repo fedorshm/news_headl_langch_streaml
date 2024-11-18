@@ -7,6 +7,11 @@
 
 Модель для оценки сентимента на HF - [blanchefort/rubert-base-cased-sentiment]([url](https://huggingface.co/blanchefort/rubert-base-cased-sentiment))
 
+Пререквизиты:
+```
+pip install streamlit transformers torch rouge
+```
+
 Для запуска сервиса:
 ```
 streamlit run app.py
